@@ -48,6 +48,6 @@ else {
 
 }
 
-
+// otestováno s různými vstupy (částkami) a bylo funkční. K testování jsem využila terminál ve Visual Code. Dík:)
 
 
